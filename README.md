@@ -138,11 +138,9 @@ for row in policy:
 
 # Output
 
-```text
 State Value Function:
 
 <img width="663" height="367" alt="image" src="https://github.com/user-attachments/assets/1c646d51-0b5e-4736-b9c7-5dc0d9a7a078" />
-```
 
 ---
 
